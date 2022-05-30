@@ -6,7 +6,7 @@
 |2. 퍼셉트론|[velog](https://velog.io/@bbirong/2%EC%9E%A5.-%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0-Perceptron)|
 |3. 신경망|[velog](https://velog.io/@bbirong/1-3.-%EC%8B%A0%EA%B2%BD%EB%A7%9D-v18d5g66)|
 |4. 신경망 학습|[velog](https://velog.io/@bbirong/%EB%B0%91%EB%94%A5-1-4.-%EC%8B%A0%EA%B2%BD%EB%A7%9D-%ED%95%99%EC%8A%B5)|
-|5. 오차역전파법||
+|5. 오차역전파법|[velog](https://velog.io/write?id=ec9c17d7-45f0-4be2-a8d0-6d410d50a80a)|
 |6. 학습 관련 기술들||
 |7. 합성곱 신경망 (CNN)||
 |8. 딥러닝||
