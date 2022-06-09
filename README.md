@@ -12,3 +12,21 @@
 |8. 딥러닝||
 |Appendix) Softmax-with-Loss 계층의 계산 그래프|[📒](https://velog.io/@bbirong/%EB%B0%91%EB%94%A5-%EB%B6%80%EB%A1%9D-A.-Softmax-with-Loss-%EA%B3%84%EC%B8%B5%EC%9D%98-%EA%B3%84%EC%82%B0-%EA%B7%B8%EB%9E%98%ED%94%84)|
 
+---
+
+### 밑바닥부터 시작하는 딥러닝 2
+
+|목차|velog 정리|
+|:--|:--:|
+|1. 신경망 복습||
+|2. 자연어와 단어의 분산 표현||
+|3. word2vec||
+|4. word2vec 속도 개선||
+|5. 순환 신경망(RNN)||
+|6. 게이트가 추가된 RNN||
+|7. RNN을 사용한 문장 생성||
+|8. 어텐션||
+|Appendix) 시그모이드 함수와 tanh 함수의 미분||
+|Appendix) WordNet 맛보기||
+|Appendix) GRU||
+
