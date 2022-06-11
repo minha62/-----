@@ -20,7 +20,7 @@
 |:--|:--:|
 |1. 신경망 복습||
 |2. 자연어와 단어의 분산 표현|[📒](https://velog.io/@bbirong/%EB%B0%91%EB%94%A52-2%EC%9E%A5.-%EC%9E%90%EC%97%B0%EC%96%B4%EC%99%80-%EB%8B%A8%EC%96%B4%EC%9D%98-%EB%B6%84%EC%82%B0-%ED%91%9C%ED%98%84)|
-|3. word2vec||
+|3. word2vec|[📒](https://velog.io/@bbirong/%EB%B0%91%EB%94%A52-3%EC%9E%A5.-word2vec)|
 |4. word2vec 속도 개선||
 |5. 순환 신경망(RNN)||
 |6. 게이트가 추가된 RNN||
